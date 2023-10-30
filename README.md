@@ -14,6 +14,17 @@ npm install react-native-vector-icons
 ```
 react-native link react-native-vetcor-icons
 ```
+```
+npm install uuid
+```
+- open project and run
+```
+react-native start
+```
+- open another terminal and run - to open emulator
+```
+react-native run-android
+```
 
 ## Step 1: Start the Metro Server
 
